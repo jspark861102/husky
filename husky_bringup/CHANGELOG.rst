@@ -2,21 +2,6 @@
 Changelog for package husky_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.13 (2022-11-25)
--------------------
-* Add HUSKY_REALSENSE_TOPIC envar for choosing prefix namespace for all realsense topics
-* Update realsense launch file based on changes from realsense2_camera
-* Contributors: Joey Yang
-
-0.4.12 (2022-01-17)
--------------------
-
-0.4.11 (2022-01-14)
--------------------
-* Added Hokuyo UST10.
-* Fix the compute_calibration script so it uses the correct name for the magnetic field attribute. Fixes https://github.com/husky/husky/issues/182
-* Contributors: Chris Iverach-Brereton, Luis Camero
-
 0.4.10 (2021-07-18)
 -------------------
 
